@@ -1,0 +1,14 @@
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\ex.AssemblyInfoInputs.cache
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\ex.AssemblyInfo.cs
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\ex.csproj.CoreCompileInputs.cache
+C:\c#s\aula\aula4\Ex\ex\bin\Debug\net8.0\ex.exe
+C:\c#s\aula\aula4\Ex\ex\bin\Debug\net8.0\ex.deps.json
+C:\c#s\aula\aula4\Ex\ex\bin\Debug\net8.0\ex.runtimeconfig.json
+C:\c#s\aula\aula4\Ex\ex\bin\Debug\net8.0\ex.dll
+C:\c#s\aula\aula4\Ex\ex\bin\Debug\net8.0\ex.pdb
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\ex.dll
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\refint\ex.dll
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\ex.pdb
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\ex.genruntimeconfig.cache
+C:\c#s\aula\aula4\Ex\ex\obj\Debug\net8.0\ref\ex.dll
