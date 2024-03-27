@@ -1,0 +1,15 @@
+C:\c#s\aula\aula2\bin\Debug\net7.0\aula2.exe
+C:\c#s\aula\aula2\bin\Debug\net7.0\aula2.deps.json
+C:\c#s\aula\aula2\bin\Debug\net7.0\aula2.runtimeconfig.json
+C:\c#s\aula\aula2\bin\Debug\net7.0\aula2.dll
+C:\c#s\aula\aula2\bin\Debug\net7.0\aula2.pdb
+C:\c#s\aula\aula2\obj\Debug\net7.0\aula2.csproj.AssemblyReference.cache
+C:\c#s\aula\aula2\obj\Debug\net7.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#s\aula\aula2\obj\Debug\net7.0\aula2.AssemblyInfoInputs.cache
+C:\c#s\aula\aula2\obj\Debug\net7.0\aula2.AssemblyInfo.cs
+C:\c#s\aula\aula2\obj\Debug\net7.0\aula2.csproj.CoreCompileInputs.cache
+C:\c#s\aula\aula2\obj\Debug\net7.0\aula2.dll
+C:\c#s\aula\aula2\obj\Debug\net7.0\refint\aula2.dll
+C:\c#s\aula\aula2\obj\Debug\net7.0\aula2.pdb
+C:\c#s\aula\aula2\obj\Debug\net7.0\aula2.genruntimeconfig.cache
+C:\c#s\aula\aula2\obj\Debug\net7.0\ref\aula2.dll

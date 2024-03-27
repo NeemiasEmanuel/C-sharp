@@ -1,0 +1,9 @@
+﻿
+//Instanciar um objeto aluno do tipo estudante
+Estudante alunoP = new Estudante("R1234", "Pedro lara");
+
+//
+Estudante alunoJ = new Estudante("qwe", "João da Silva");
+System.Console.WriteLine(alunoP.Rgm + " " + alunoP.Nome);
+
+System.Console.WriteLine(alunoJ.Rgm + " " + alunoJ.Nome);
